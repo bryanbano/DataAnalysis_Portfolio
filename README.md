@@ -18,3 +18,4 @@ Microsoft PowerBI:
 
 Python:
 (1) Loan Repayment Calculator: Utilizing Jupyter Notebooks, created a payment estimator based on inputted values.
+(2) Automatic File Sorter: Utilizing Jupyter Notebooks, created a file sorter that automatically sorted image, text, and csv files into newly created folders.
