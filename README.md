@@ -18,5 +18,9 @@ Microsoft PowerBI:
 
 Python:
 (1) Loan Repayment Calculator: Utilizing Jupyter Notebooks, created a payment estimator based on inputted values.
+
 (2) Automatic File Sorter: Utilizing Jupyter Notebooks, created a file sorter that automatically sorted image, text, and csv files into newly created folders.
+
 (3) Dermstore Scraper Project: Utilizing Jupyter Notebooks, created a web scraper to scrape skincare products and prices from the first 6 pages of their skincare category page (while loop, for loops, convert dataframe to Excel file.
+
+(4) Crytocurrency API Project: Utilizing Jupyter Notebooks, initiated API pull from a crypto tracking site each minute to compile currency values over time; exported and appended new data to CSV file
